@@ -180,37 +180,10 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Overall Report
+https://drive.google.com/drive/u/0/home
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+you can find the full report file here : [Report](https://drive.google.com/file/d/1DLfFmd-pgQe975yeRXvoXJZTEKxMClG0/view)
 
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-
-## Finance View
-
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
-## Sales View
-
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
-
-## Marketing View
-
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
-
-## Supply chain View
-
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report]()
 
 
 ## Project Outcome
