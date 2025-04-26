@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ODU1MjEtM2ZmNy00NGNmLTkyMmYtZGI2NDYyZDM0MTlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -210,7 +210,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report]()
 
 
 ## Project Outcome
